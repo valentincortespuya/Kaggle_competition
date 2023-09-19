@@ -11,7 +11,7 @@
 Find the Kaggle competition with your cohort name, i.e. **diamonds-part-may-23**, link [here](https://www.kaggle.com/competitions/diamonds-part-may-23/overview)
 ### train.csv
 * 1. **Processing/cleaning** the dataset: this should be later modularized in functions.
-* 2. **Train** a model (fit & predict) with the data in `train.csv`. This file does contain a **y**.
+* 2. **Train** a model (fit & predict) with the data in `train.csv`. This file does contain a **y**. 
         - Do *train, test, split* on `train.csv` if necessary.
         - Choose the best model regarding the metrics. In this case, the lowest MSE (error).
 
